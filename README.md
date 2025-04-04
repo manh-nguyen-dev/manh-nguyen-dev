@@ -6,8 +6,8 @@ Welcome to my GitHub profile! ❤️
 - 🚀 Always eager to **learn, grow**, and explore **new technologies**  
 
 ## ☕ Support Me  
-If you like my work, you can support me here:  
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/manh.nguyen)  
+If you like my work, you can support me here: [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/manh.nguyen)
+ 
 
 ## 🔗 Connect with me  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/14052k)  
